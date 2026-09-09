@@ -1,0 +1,96 @@
+Message from our Chair and CEO
+
+The Australian Government has set a target to reduce emissions to 62–70% below 2005 levels by 2035, emphasising the scale and pace of change required across the economy. We acknowledge the value of a national target in providing direction, alongside clear, well-developed and appropriately costed policies to achieve it.
+
+Recent global events have reminded all Australians of the importance of energy security and the need for resilient nationally critical systems, including supply chains and infrastructure.
+
+Australia’s future economy
+
+In a more uncertain global environment, maintaining sovereign capability and optionality may require additional domestic capacity or flexibility. Energy underpins economic growth across every sector and is critical to Australia’s productivity, competitiveness and living standards.
+
+Secure, reliable and affordable energy is essential for all Australians, businesses, communities and critical infrastructure. Disruptions to essential goods and services can significantly increase costs across the economy and reduce the availability of goods and services more broadly.
+
+Balancing Australia’s transition to net zero with energy security is central to the long-term success of our economy. Australia must be clear on the trade-offs, required investment, and impact of decisions made on households, businesses and communities, both today and into the future.
+
+As the bank for all Australians, we remain committed to supporting our customers and communities through this period of significant structural change. Over the coming decade, delivering the transition will require significant capital investment across energy, infrastructure and industry. This investment is needed at a time when supply chain constraints, construction costs and inflation are making delivery harder.
+
+Supporting Australia’s competitiveness over the long term depends on well-designed, targeted policy settings that enable the investment needed to build a more productive and resilient economy. In a more fragmented geopolitical environment, these settings need to provide confidence for long-term investment while remaining flexible enough to strengthen national resilience, including energy security.
+
+Delivering energy security, reliability and affordability
+
+Australia’s transition will require an open national conversation about trade-offs, priorities and fairness. It will require us to balance pace, cost, energy security and our future energy mix, with how we share both costs and benefits.
+
+Delivering a more secure, reliable and affordable energy system will require sustained investment at scale, particularly in generation, storage and enabling infrastructure, including nationally significant projects such as new transmission lines and interconnectors.
+
+Independent national advice is important in identifying the lowest-cost pathway to supply Australia’s future energy needs. The Australian Energy Market Operator’s (AEMO) 2026 Integrated System Plan (ISP) reaffirms that renewables, firmed with storage and backed up by gas, is the lowest-cost way to supply secure and reliable electricity through Australia’s transition.
+
+92 Sustainability Report
+
+Australia’s integrated system plan
+
+In a system with more renewable energy, there will be times when backup power is needed to keep electricity reliable, with less community tolerance for disruptions as new infrastructure is built. Flexible gas-powered generation can provide critical backup and system stability, including the ability to respond quickly, particularly during high-demand periods.
+
+Households are already playing an important role, with AEMO estimating more than one in three Australian homes have rooftop solar. With better coordination, consumer energy resources, such as rooftop solar and batteries, can help to reduce system costs and support reliability.
+
+However, continued progress depends on affordability and making participation practical for more households. Accelerating electrification where viable, including passenger vehicles and some freight transport, can also help to reduce Australia’s exposure to fuel price volatility over time, but uptake depends on affordability, charging infrastructure and targeted policy settings.
+
+Transition support should prioritise investment in infrastructure, skills and technology, rather than temporary relief for higher operating costs. Poorly targeted or prolonged measures can reduce efficiency, weaken productivity gains and contribute to broader inflationary pressures over time.
+
+When households and businesses face higher costs, social licence for infrastructure investment and reform becomes harder to sustain. Continued support for the transition will depend on affordability, transparency of costs and disciplined delivery of the lowest-cost pathway.
+
+Supporting our customers and communities through the transition
+
+We bank one in three Australians and one in four Australian businesses, and will continue to support growth and long-term prosperity for all Australians. This includes helping direct capital towards productive investment that builds energy capacity and resilience across the economy.
+
+We also continue to support customers with products, tools and services to help them transition, adapt and build resilience. Our portfolio includes smaller business customers who transport and produce goods essential to our economy and living standards.
+
+Australia needs to be cautious of policy settings or market actions that shift production offshore or redirect financing into private markets. These outcomes may come at the expense of the domestic economy without reducing global emissions or supporting Australia’s transition.
+
+Through industry bodies and engagement with government, we advocate for long-term policy settings that support harder-to-abate sectors and industries important for Australia’s sovereign capability.
+
+Our exposure to the mining, oil and gas sector remains low at 0.4% of our total committed exposures (TCE).
+
+Our Environmental and Social (E&S) Framework recognises Australia’s need for a secure energy platform, including in circumstances where an Australian government or regulator, including AEMO, determines that supply from a certain asset or asset type is necessary for our nation’s energy security. Our E&S Framework is available at commbank.com.au/policies
+
+Progress on our commitments
+
+We continue to make progress against our commitment to support Australia’s transition to net zero by 2050. This year we published our first report under Australia’s mandatory sustainability reporting regime, and assessed which climate-related risks and opportunities are material to us.
+
+Climate change can affect the customers, businesses and communities we serve. We understand the important role we can play by providing financial products and services that help customers and communities navigate these impacts.
+
+Based on the time horizons we have assessed, climate-related risks and opportunities are not expected to have a material financial impact on us.
+
+We remain on track for 12 of our 15 sector-level financed emissions goals and targets. During the year, we tested the assumptions underpinning them against different transition pathways, including varying rates of grid decarbonisation and customer action, and continue to consider them appropriate.
+
+Having achieved our 2025 operational emissions targets, we set a new 2030 target to reduce our Scope 1 and 2 operational emissions by 75% against a 2020 baseline. Over time, we expect to revisit the goals and targets we have set as new information, methodologies and guidance emerge.
+
+Looking ahead
+
+For Australia’s transition to net zero to succeed, it must be sustainable and inclusive, supporting customers, communities and regions that may be disproportionately impacted, while also strengthening resilience to physical climate risks.
+
+Communities across Australia are already experiencing more frequent and severe weather events and the physical impacts of climate change are becoming harder to ignore. These impacts can affect households, businesses and infrastructure, including the availability and affordability of insurance.
+
+We are investing in tools to help customers understand risk and take action, including expanding our Natural Hazard Feature in the CommBank app beyond last year’s pilot.
+
+We recognise that early, coordinated action and policy development matter, and will continue to engage on areas where we can meaningfully contribute to the transition conversation.
+
+Closing
+
+Australia has previously demonstrated that when we commit to a national challenge, we can deliver. It will take government, business and communities working together in the national interest to deliver energy security and prosperity for all Australians.
+
+We are committed to supporting the country as it transitions to net zero and building a brighter, more resilient future for generations to come.
+
+Paul O’Malley
+Chair
+
+Matt Comyn
+Chief Executive Officer
+
+93 Commonwealth Bank 2026 Annual Report
+Business Review
+Financial Report
+Directors’ Report
+Additional Information
+Overview
+Sustainability Report
+"""
